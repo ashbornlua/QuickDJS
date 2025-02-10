@@ -2,7 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v16%2B-green) ![Discord.js](https://img.shields.io/badge/Discord.js-v14-blueviolet)
 
-**QuickDJS** is an open-source, lightweight, and modular template for creating Discord bots using the [Discord.js](https://discord.js.org/) library. Whether you're a beginner or an experienced developer, this template provides a clean and organized structure to kickstart your bot development journey.
+**QuickDJS** is an open-source, lightweight, and modular template for creating Discord bots using the [Discord.js](https://discord.js.org/) library. Whether you're a beginner or an experienced developer, this template provides a clean and organized structure to kickstart your bot development journey. 
+
+![](banner.jpg]
 
 ---
 
