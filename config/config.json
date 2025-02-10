@@ -1,0 +1,7 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "playingMessage": "Type help for assistance",
+    "imageLink": "https://your-bot-image-link.com/",
+    "inviteAuth": "https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scope=bot"
+}
